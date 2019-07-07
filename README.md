@@ -1,4 +1,4 @@
-# RockPaperScissors
+# Rock Paper Scissors Game (with scoring)
 Play rock/paper/scissors with your computer!
 
 Skills acquired/enhanced:
