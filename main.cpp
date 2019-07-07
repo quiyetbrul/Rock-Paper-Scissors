@@ -1,3 +1,8 @@
+//  main.cpp
+//  RockPaperScissors
+//
+//  Created by Quiyet Brul on 6/13/19.
+//  Copyright © 2019 Quiyet Brul. All rights reserved.
 #include <iostream>
 #include <string>
 #include <ctime>
